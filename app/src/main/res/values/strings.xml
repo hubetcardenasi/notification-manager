@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Audit</string>
+    <string name="sUser">User</string>
+    <string name="sPassword">Password</string>
+    <string name="sMessage" />
+    <string name="sOk">OK</string>
+</resources>
